@@ -32,6 +32,8 @@ This project extracts data from a graph image and performs trend analysis and fu
 ## 📈 Output
 
 <img width="746" height="420" alt="image" src="https://github.com/user-attachments/assets/00b8d7c8-6f9f-41c7-9aa2-73de9d977fdb" />
+<img width="766" height="417" alt="image" src="https://github.com/user-attachments/assets/f4e69501-fda3-48d7-a737-d6fab3720ea0" />
+
 
 
 ---
